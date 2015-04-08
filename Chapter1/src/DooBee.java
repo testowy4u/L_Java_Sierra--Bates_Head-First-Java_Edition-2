@@ -1,4 +1,5 @@
 // Author = Rolando
+// Chapter 1-3
 public class DooBee {
     public static void main (String[] args) {
         int x = 1;
@@ -11,7 +12,6 @@ public class DooBee {
 
         if (x == 3) {
             System.out.print("Do");
-        } //  end if statement
-
+        }
     } //  end main method
 } // end class

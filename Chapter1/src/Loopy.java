@@ -1,4 +1,5 @@
 // Author = Rolando
+// Chapter 1-2
 public class Loopy {
     public static void main (String[] args) {
         int x = 1;
@@ -10,8 +11,8 @@ public class Loopy {
             x = x + 1;
         } // end while loop
         System.out.println("This is after the loop");
-    }
-}
+    } // end of method
+} // end of class
 
 //class IfTest {
 //    public static void main (String[] args) {

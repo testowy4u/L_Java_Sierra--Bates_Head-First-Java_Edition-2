@@ -1,4 +1,5 @@
 // Author = Rolando
+// Chapter 1-1
 public class MyFirstApp {
 
     public static void main (String[] args) {
@@ -52,5 +53,5 @@ public class MyFirstApp {
 //        } // end while loop
 
 
-    }
-}
+    } // end of method
+} // end of class
