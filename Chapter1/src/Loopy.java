@@ -11,11 +11,3 @@ public class Loopy {
         System.out.println("This is after the loop");
     }
 }
-class IfTest {
-    public static void main (String[] args) {
-        int x = 3;
-        if (x == 3) {
-            System.out.println("x must be 3");
-        }
-    }
-}
