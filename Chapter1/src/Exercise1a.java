@@ -40,27 +40,27 @@ class Exercise1c {
 // Down:
 //
 // 1.  float
-// 2.  None
-// 3.
-// 5.
-// 7.
+// 2.  void
+// 3.  public
+// 5.  array
+// 7.  while
 // 10. compiler
 // 11. variable
 // 13. IT
-// 15.
-// 16.
-// 17.
+// 15. static
+// 16. main
+// 17. method
 // 20. JVM
 //
 // Across:
 //
-// 4.
+// 4.  java
 // 6.  loop
-// 8.  ifTest
-// 9.
-// 12.
-// 13.
-// 14.
-// 18. String
-// 19.
-// 21.
+// 8.  branch
+// 9.  DC
+// 12. int
+// 13. IC
+// 14. system-out-print
+// 18. string
+// 19. declare
+// 21. command
